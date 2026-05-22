@@ -1,9 +1,0 @@
-{
-  "_comment": "Add this group to the 'navigation' array in mint.json in the almnjoy/docs repo",
-  "group": "NorthernPWR Demo",
-  "pages": [
-    "northernpwr/overview",
-    "northernpwr/solar-101",
-    "northernpwr/install-process"
-  ]
-}
